@@ -1,7 +1,7 @@
-**Stock Price Prediction with LSTM**
+**Stock Price Prediction with LSTM:**
 This project involves predicting stock prices using Long Short-Term Memory (LSTM) networks. LSTM is a type of recurrent neural network (RNN) that is well-suited for sequence prediction problems such as time series forecasting.
 
-**Project Overview**
+**Project Overview:**
 The project consists of the following main steps:
 
 **Data Collection:** Historical stock price data for multiple stocks is collected using the Yahoo Finance API (yfinance).
