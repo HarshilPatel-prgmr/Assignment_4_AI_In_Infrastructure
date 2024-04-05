@@ -16,7 +16,7 @@ The project consists of the following main steps:
 
 **Model Saving:** The trained LSTM model is saved for future use.
 
-** Create Prediction Dashboard:** Actual and predicted prices for multiple stocks were visualized, allowing users to compare and analyze trends.
+**Create Prediction Dashboard:** Actual and predicted prices for multiple stocks were visualized, allowing users to compare and analyze trends.
 
 **Prerequisites**
 Before running the code, ensure you have the following dependencies installed:
