@@ -21,12 +21,12 @@ The project consists of the following main steps:
 **Prerequisites**
 Before running the code, ensure you have the following dependencies installed:
 
-matplotlib
-sqlite3
-pandas
-numpy
-scikit-learn
-keras
-yfinance
-dash
+matplotlib,
+sqlite3,
+pandas,
+numpy,
+scikit-learn,
+keras,
+yfinance,
+dash,
 plotly
